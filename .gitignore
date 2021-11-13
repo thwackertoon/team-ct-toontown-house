@@ -1,0 +1,15 @@
+# General
+desktop.ini
+Thumbs.db
+
+# Toontown House
+*.blob
+*.log
+*.toon
+
+# Python byte-compiled/optimized
+*.py[co]
+
+# Eclipse (with PyDev plugin) or Aptana Studio
+.project
+.pydevproject

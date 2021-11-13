@@ -1,0 +1,10 @@
+TTH Website :
+	-Part of it = TTHC (edited mantis)
+	-Based on WP for faster management
+	-Custom theme entirely special
+	-Mod Sharing platform (here or on ctnet ? IDK...)
+
+CT Network :
+	-Based on NOTHING
+	-Uses some frameworks (Modernizr)
+	-Old Cogtown Network

@@ -1,0 +1,75 @@
+This is a list of things to-do.
+If you find any bugs, put it here!
+If they are fixed, basically add FIXED next to them
+If they are fixed but some minor things are to do, then add ALMOST FIXED
+If not of thoses above, then just NOT FIXED YT
+
+Features:
+If a feature is done, just add DONE
+If a feature, is done but needs some tweaking/almost finished, add ALMOST DONE
+WHY DID YOU DESTROYED MY TODOH U_U
+If a feature is not done but being made, add BEING MADE
+if they aren't done, then just add TO BE MADE
+
+BUGS TO FIX:
+
+HIGH PRIORITY - CANNOT CREATE OR DELETE TOONS, PLEASE SEE http://pastebin.com/M7uhDPa9
+
+FIXED - Frozen book animation when closing the book (i dont know why)
+
+NOT FIXED YET - When spawning in an area, the running sounds plays even with no movement.
+
+ALMOST FIXED - Player can open stihcker WHILE in trolley and tunnel. (almost) (FIXED i think)
+
+
+NOT FIXED YET - Choosing a toon type and then coming back shows cat instead of the current type.
+
+NOT FIXED YET - Random teleport spawns into gray area. (HUH? ~loblao)
+
+NOT FIXED YET - Double clicking the shticker crashes the game
+
+NOT FIXED YET - Reverse makes the same sound as running. needs to be walkloop
+Also, sometimes, walking gives the backwards animation, and it means you have to repress w to fix it
+
+NOT FIXED YET - Toons get out of the tunnel in neutral position.
+
+NOT FIXED YET - Bubbles always look large... while chatting.
+
+NOT FIXED YET - Sound stops at the half of it (aka tp by example)
+
+NOT FIXED YET - Opening the book while teleport results in a crash
+
+NOT FIXED YET - Adding someone removes your toons. (Notsure) <--- sounds very important!!
+
+NOT FIXED YET - Hop of button stays after quitting...
+
+NOT FIXED YET - Neutral and teleport animation are mixed together, and that causes a really strange... buggy anim.
+
+NOT FIXED YET - Wrong animation for jumping while running.  Wrong animation when pressing forward and left/right.
+
+NOT FIXED YET - Jumping animation begins whether or not toon is touching the ground.
+
+THINGS TO IMPLEMENT/Fix:
+DONE        - Teleport fixes - Aka, teleport out animation when joining a neighborg/tping, and give the toon a teleport hole
+DONE        - Shadow Under TOON
+DONE        - The TAG (Need to make it mobile.)
+
+ALMOST DONE - Chat (Needs a few things done...)
+ALMOST DONE - Funny Farm and Acorn Acres street
+
+BEING MADE  - Fishing
+
+TO BE MADE  - Icons over tags
+TO BE MADE  - Minigames (zone is always 18000 and + 1)
+TO BE MADE  - Toon HQS
+TO BE MADE  - Battle System (probably in beta... or earlier)
+TO BE MADE  - English Names (L10N) (gonna add them with french one (if i find them))
+TO BE MADE  - MYSQL Based Login instead of Blob. (NO WAY) (Why?) (blob system is SHIT)
+TO BE MADE  - Fade effect for choose a toon.
+TO BE MADE  - Friends (Teleportation, Doodle, etc etc) plus alot of things to fix
+TO BE MADE  - Less jerky enter tunnel animations. LOL WTF
+TO BE MADE  - Goto Neighborg Button
+TO BE MADE  - Estates/Garden drop
+TO BE MADE  - Double connection warning (like when someone connects on the same account)
+TO BE MADE  - Iris effect.
+TO BE MADE  - When you enter water, it makes the toon swim.

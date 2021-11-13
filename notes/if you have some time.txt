@@ -1,0 +1,6 @@
+-connect ig with a specialized (aka contains "isSpecial" field in Blob with "1" (STRING) value) account
+-check if icon appears
+-if bad, replace it
+
+thx
+s0r00t

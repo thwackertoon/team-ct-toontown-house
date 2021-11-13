@@ -1,0 +1,18 @@
+How To Git For Newbies....
+By Sheriff.
+***************************************************
+
+CLONING A REP:
+1. clone it - git clone https://username:password@github.com/teamct/ToontownHouse.git
+2. wait... (most boring part.... -_-)
+3. ????
+4. PROFIT!
+
+***************************************************
+
+SENDING COMMITS:
+1. add a folder or a file (can also support subfolders) - git add folder
+2. commit it (message is for example to know.... like... what's the update?) - git commit -m "I made this!"
+3. send it :D - git push origin master
+
+***************************************************

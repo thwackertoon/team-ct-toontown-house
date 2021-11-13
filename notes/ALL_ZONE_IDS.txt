@@ -1,0 +1,35 @@
+Area51: 51
+TTcentral: 1000
+	Street 1 (to gardens): 1100
+		-subshops 11xx
+	Street 2 (to mml): 1200
+	Street 3 (to docks): 1300
+	Speedway: 1400
+		SW kart shop: 1404
+
+Dock: 2000
+	(same street stuff, 2100, 2200, ...)
+	Acres: 2400
+		Minigolf: 2450
+
+Garden: 3000
+
+Melodyland: 4000
+
+Brrrgh: 5000
+
+Dreamland: 6000
+
+COGS HQS:
+	sellbot: 7000
+	cashbot: 8000
+	lawbot: 9000
+	bossbot: 10000
+
+---- PROPS COMMON TO SAFEZONES: -----
+z = SAFE ZONE ID (eg: 1 (ttcentral),2 (docks), etc)
+Gag shop: z001
+Library: z002
+Pet shop: z003
+ etc (to be continued)
+	

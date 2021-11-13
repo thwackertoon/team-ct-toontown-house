@@ -1,0 +1,14 @@
+All of these playgrounds are completed 100%, but may need slight tweaking.
+ 
+The fishing is not done there are some things that need to be added/fixed to it
+and the fishing is based off of the fishing from 2003 with the reel.
+ 
+I have included the *.eggs of the phase_14 files incase of texture problems
+so you can change the locations of the textures and compile if necessary.
+ 
+"streets.py" and "specialHoods.py" need to be added in.
+ 
+Funny Farm needs to be accessed only if you type in Funny Farm in the
+codes section of your book because it is no ready by tunnel yet.
+ 
+~King Fritz

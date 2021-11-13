@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="TTHL" main_module="main">
+    <config run_origin="toontownhouse.net;www.toontownhouse.net" script_origin="www.toontownhouse.net;toontownhouse.net" />
+    <requires name="panda3d" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+</package>

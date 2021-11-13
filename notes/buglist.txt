@@ -1,0 +1,5 @@
+NACIB's BUGS:
+	Friendlist:
+		friend is always on
+		add logged on/off msg
+		hide friendship button when list is open
