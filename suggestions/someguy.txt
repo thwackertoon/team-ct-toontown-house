@@ -1,0 +1,1 @@
+I reccomend that you guys ask if you can add documentation for DistributedObjects and that jazz to the panda3d manual. I've seen alot of people come to me asking how to use and i'm not fully capable myself but from what I can see it looks as though you guys know your stuff.

@@ -1,0 +1,13 @@
+import DistributedAvatar
+//import DistributedPellet
+//import DistributedSmoothAvatar
+//import DistributedSyncPellet
+//import DistributedSignpost/AI
+
+// These classes are used in server1.py/client1.py
+
+dclass DistributedAvatar: DistributedNode {
+  setAvColor(uint8 r/255, uint8 g/255, uint8 b/255) broadcast ram required;
+};
+
+

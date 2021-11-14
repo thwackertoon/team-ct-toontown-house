@@ -1,0 +1,10 @@
+There is going to be a text document for every team member to post there suggestions. You may read the other persons document. But please do not edit them!
+
+Ideas and NOT features!
+Example:
+
+Fullscreen support (feature)
+Add the cogs (feature)
+
+New cog (idea)
+New playground(idea)
